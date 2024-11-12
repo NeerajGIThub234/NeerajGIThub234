@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**NeerajGIThub234/NeerajGIThub234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer
 
-Here are some ideas to get you started:
+## 👋 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi! I'm Neeraj Bhatt, a software developer based in Kota. I’m passionate about  coding, app development.
+
+- 🔭 I’m currently working as  Full Stack Developer at eSaral Ventures Pvt Ltd Kota Rajsthan.
+- 🌱 I’m currently learning Mern Stack.
+
+## 🚀 Skills
+
+- **Languages:** React Native|Node Js| React Js| Next Js| Python | Django | JavaScript | HTML & CSS | jQuery & AJAX| Java| DSA|
+- **Frameworks & Libraries:**  Django , React, Django, Spring, Express
+- **Tools & Platforms:**  Git,Github
