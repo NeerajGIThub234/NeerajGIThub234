@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋, I'm Neeraj Bhatt
 
-Developer
+## About Me
+Hi! I'm Neeraj Bhatt, a software developer based in Kota. I'm passionate about coding and app development.
 
-## 👋 About Me
-
-Hi! I'm Neeraj Bhatt, a software developer based in Kota. I’m passionate about  coding, app development.
-
-- 🔭 I’m currently working as  Full Stack Developer at eSaral Ventures Pvt Ltd Kota Rajsthan.
-- 🌱 I’m currently learning Mern Stack.
-
+- 🔭 I’m currently working as a Full Stack Developer at eSaral Ventures Pvt Ltd, Kota, Rajasthan.
+- 🌱 I’m currently learning the MERN Stack.
+  
 ## 🚀 Skills
 
-- **Languages:** React Native|Node Js| React Js| Next Js| Python | Django | JavaScript | HTML & CSS | jQuery & AJAX| Java| DSA|
-- **Frameworks & Libraries:**  Django , React, Django, Spring, Express
-- **Tools & Platforms:**  Git,Github
+### Languages:
+- React Native
+- Node.js
+- React.js
+- Next.js
+- Python
+- Django
+- JavaScript
+- HTML & CSS
+- jQuery & AJAX
+- Java
+- DSA (Data Structures & Algorithms)
+
+### Frameworks & Libraries:
+- Django
+- React
+- Spring
+- Express
+
+### Tools & Platforms:
+- Git
+- GitHub
+
+Feel free to connect with me! 😊
